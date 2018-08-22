@@ -6,7 +6,7 @@ X OR Y X | Y
 
 Solved using first-order logic resolution.
 
-###Format for input.txt:
+### Format for input.txt:
 <NQ = NUMBER OF QUERIES>
 <QUERY 1>
 …
@@ -26,7 +26,7 @@ predicate name will not appear with different number of arguments.
 • See the sample input below for spacing patterns.
 • You can assume that the input format is exactly as it is described. There will be no syntax errors in the
 given input.
-###Format for output.txt:
+### Format for output.txt:
 For each query, determine if that query can be inferred from the knowledge base or not, one query per line:
 <ANSWER 1>
 …
